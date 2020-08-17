@@ -15,6 +15,7 @@ export default createGlobalStyle`
         color : ${(props) => props.theme.blackColor};
         font-size : 14px;
         font-family: 'Open Sans', sans-serif;
+        padding-top: 140px;
     }
 
     a {
